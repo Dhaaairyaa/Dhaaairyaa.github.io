@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Noto Serif", serif;
+  box-sizing: border-box;
+}
+.box {
+  background-color: wheat;
+  text-align: center;
+  padding: 40px;
+}
+.box2 {
+  background-color: black;
+  color: wheat;
+  align-content: center;
+  text-align: center;
+  padding: 70px;
+}
+.n1 {
+  padding: 10px;
+  color:black;
+  margin: 10px;
+}
+.n2 {
+  padding: 0;
+  margin: 10px;
+}
+.n3{
+  padding: 10px;
+  color:wheat;
+  margin: 10px;
+}
